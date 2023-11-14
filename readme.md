@@ -1,6 +1,6 @@
 ## Linked List
 
-- [x] Generate a linked list from given array (🔸🔸🔸)
+- [✅] Generate a linked list from given array (🔸🔸🔸)
 - [ ] Reverse a linked list (🔸🔸🔸)
 - [ ] Merge two sorted linked list without using auxiliary space (🔸🔸🔸)
 - [ ] Detecting a linked list if it is circular in O(n) time. (🔸🔸)
@@ -22,9 +22,9 @@
 - [ ] Min Heap / Priority Queue (🔸🔸🔸)
 - [ ] Max Heap (🔸🔸🔸)
 
-## Stack (🔸🔸🔸)
+## Stack 🔥
 
-## Queue (🔸🔸🔸)
+## Queue 🔥
 
 ## Circular Queue (🔸)
 
@@ -38,15 +38,15 @@
 - [ ] If we know the length of the array size than which sort algorithm should we use between Quick sort and Merge sort (🔸🔸🔸)
 - [ ] Why should we choose the pivot in quicksort randomly? (🔸🔸🔸)
 
-## Binary Search (🔸🔸🔸)
+## Binary Search 🔥
 
-## Depth First Search (🔸🔸🔸)
+## Depth First Search 🔥
 
 - [ ] Graph Traversal (🔸🔸🔸)
 - [ ] Count Connected components (🔸🔸🔸)
 - [ ] Cycle finding or detecting (🔸🔸)
 
-## Breadth First Search (🔸🔸🔸)
+## Breadth First Search 🔥
 
 - [ ] Shortest path in unweighted graph (🔸🔸🔸)
 - [ ] Given a graph, check whether it is bi-colorable or not.(🔸🔸🔸)
@@ -69,7 +69,7 @@
 - [ ] Longest Increasing Subsequence (🔸🔸)
 - [ ] Longest Common Subsequence (🔸🔸)
 
-## Object Oriented Programming ( OOP ): (🔸🔸🔸)
+## Object Oriented Programming ( OOP ): 🔥
 
 - [ ] What is OOP? (🔸🔸🔸)
 - [ ] What are the four design principles in OOP? (🔸🔸🔸)
@@ -82,7 +82,7 @@
 - [ ] Difference between abstract class and interface (🔸🔸🔸)
 - [ ] What is runtime and compile time polymorphism (🔸🔸🔸)
 
-## DBMS, RDBMS, SQL : (🔸🔸🔸)
+## DBMS, RDBMS, SQL : 🔥
 
 - [ ] What is DBMS and RDBMS? (🔸🔸🔸)
 - [ ] DDL (Data Definition Language) (🔸🔸🔸)
