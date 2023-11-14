@@ -1,6 +1,6 @@
 
 ## Linked List 					
-- [ ] Generate a linked list from given array ***				
+- [x] Generate a linked list from given array ***				
 - [ ] Reverse a linked list ***				
 - [ ] Merge two sorted linked list without using auxiliary space ***				
 - [ ] Detecting a linked list if it is circular in O(n) time. **				
