@@ -9,7 +9,7 @@
 
 - [x] Generate a linked list from given array :three:
 - [x] Reverse a linked list :three:
-- [ ] Merge two sorted linked list without using auxiliary space :three:
+- [x] Merge two sorted linked list without using auxiliary space :three:
 - [ ] Detecting a linked list if it is circular in O(n) time. :two:
 - [ ] Remove Duplicates from Sorted List :three:
 
