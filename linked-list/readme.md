@@ -56,3 +56,25 @@ node *reverseList(node *&head)
     return dummyNode->next;
 }
 ```
+
+## Linked list cycle detection
+
+```cpp
+bool checkCircle(node *&head)
+{
+    node *fast = head;
+    node *slow = head;
+
+    while (fast != NULL && fast->next != NULL)
+    {
+        slow = slow->next;
+        fast = fast->next->next;
+
+        if (slow == fast)
+        {
+            return true;
+        }
+    }
+    return false;
+}
+```
