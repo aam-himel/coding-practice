@@ -78,3 +78,29 @@ bool checkCircle(node *&head)
     return false;
 }
 ```
+
+## Remove duplicate from a sorted linked list
+
+```cpp
+void removeDuplicate(node *&head)
+{
+    node *curr = head;
+    node *next_next;
+    if (curr == NULL)
+        return;
+
+    while (curr->next != NULL)
+    {
+        if (curr->data == curr->next->data)
+        {
+            next_next = curr->next->next;
+            delete (curr->next);
+            curr->next = next_next;
+        }
+        else
+        {
+            curr = curr->next;
+        }
+    }
+}
+```
